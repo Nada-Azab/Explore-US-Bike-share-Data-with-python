@@ -1,2 +1,2 @@
 # projct-Bikeshare
-Simple project with python about Bikeshare .
+Simple project with python about exploring Bikeshare data from  chicago , new york and washinton cities .
